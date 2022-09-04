@@ -25,6 +25,7 @@
 # Video Demo Link 
 
 ![2022-09-04 (1)](https://user-images.githubusercontent.com/83304080/188308752-6e08ad9b-e48d-4c07-8381-18d33d91cd79.png)
+
 Link - 
 
 # Resources
@@ -32,7 +33,7 @@ video tutorial for brushing up python language
 Replit Documentation
 stackoverflow for debugging errors.
 
-# Thank Hackodisa2.0 organiser for providing this opportunity.
+# Thanks Hackodisa2.0 organiser for providing this opportunity.
 # Thank you Everyone
 # Hoped you like it!!
 
